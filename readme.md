@@ -1,0 +1,1 @@
+Simple example of using the Facebook SDK with Cocos2D-SpriteBuilder. Implements sharing and login.
